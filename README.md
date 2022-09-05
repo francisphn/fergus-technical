@@ -7,6 +7,8 @@ This app was developed as a technical test solution to Fergus by Francis Phan.
 ## Using the app
 [Access the deployed app here](https://tradify-d1ef0.web.app/). PLEASE NOTE: You will need to check the spam folder as Firebase domains always end up in there.
 
+[Here is a quick guide to all features of the app and how to access them.](https://somber-town-507.notion.site/Tradify-b379cdd53a0d494e94b7b65dcf833388)
+
 ## Getting started
 
 ### Preliminary
