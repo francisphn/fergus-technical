@@ -4,7 +4,8 @@ Tradify is a full stack app designed for tradies to manage jobs effectively. It 
 
 This app was developed as a technical test solution to Fergus by Francis Phan.
 
-Access the live version here. PLEASE NOTE: You will need to check the spam folder as Firebase domains always end up in there.
+## Using the app
+[Access the deployed app here](https://tradify-d1ef0.web.app/). PLEASE NOTE: You will need to check the spam folder as Firebase domains always end up in there.
 
 ## Getting started
 
