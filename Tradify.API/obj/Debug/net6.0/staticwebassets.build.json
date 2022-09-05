@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ei/y58iM+JEDAgS/jlkq8MamfEeF34UvCXeOeHZuozQ=",
+  "Source": "Tradify.API",
+  "BasePath": "_content/Tradify.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
