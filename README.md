@@ -14,7 +14,7 @@ Access the live version here. PLEASE NOTE: You will need to check the spam folde
 
 ### Backend
 3. In `appsettings.json` in the root folder, change the database connection string to that of your database. Then you're ready to deploy!
-3. Go to your Firebase project and request access to the Firebase Admin SDK. You will then be given a json credential file. Copy the content into `firebase.json` at the root folder. For more information, refer to *Intialize the SDK* section in [this official documentation](https://firebase.google.com/docs/admin/setup).
+3. Go to your Firebase project and request access to the Firebase Admin SDK. You will then be given a json credential file. Copy the content into `firebase.json` at the root folder. For more information, refer to the *Intialize the SDK* section in [this official documentation](https://firebase.google.com/docs/admin/setup).
 
 ### Frontend
 4. Run `npm install` to install all dependencies.
