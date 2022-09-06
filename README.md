@@ -16,9 +16,9 @@ This app was developed as a technical test solution to Fergus by Francis Phan.
 2. Then, deploy a Firebase project and set up Authentication (including passwordless sign-ins).
 
 ### Backend
-1. In `appsettings.json` in the root folder, change the database connection string to that of your database. Then you're ready to deploy!
+1. In `appsettings.json` in the root folder, change the database connection string to that of your database. 
 2. Go to your Firebase project and request access to the Firebase Admin SDK. You will then be given a json credential file. Copy the content into `firebase.json` at the root folder. For more information, refer to the *Intialize the SDK* section in [this official documentation](https://firebase.google.com/docs/admin/setup).
-3. Run the API.
+3. Run or deploy the API.
 ### Frontend
 4. Run `npm install` to install all dependencies.
 5. In the `src` folder, create a new `.env` file with the following format. Replace with your Firebase credentials.
