@@ -49,6 +49,8 @@ REACT_APP_FIREBASE_APP_ID = "---"
 
 Because of the limited time available, there are many things that could be fixed to improve performance, such as:
 
+1. I did not use Redux (because the spec requirements specified I needed to spend less than 3 hours on this project) which means I have overused `React.useEffect()` throughout the project leading to significant latency rates. If I had had more time to complete I would have used Redux or Zustand.
+
 1. Sorting and filtering. These are currently done at the frontend. If there were more time, doing it at the backend is better.
 
 2. Firebase Authentication was used to quickly get things done but it is not a good authentication system (and this shows in the controller). Ideally I would have implemented it with Azure Active Directory B2C.
