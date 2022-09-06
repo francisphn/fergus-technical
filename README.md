@@ -36,6 +36,9 @@ REACT_APP_FIREBASE_APP_ID = "---"
 7. In `Services/JobsSevices.ts`, replace the `basicUrl` with your deployed/development URL. 
 7. Run `npm start` or deploy your frontend.
 
+## Deploy without setting up
+Please contact me at hph44@uclive.ac.nz and I will give you access to a private version of this repository. There I have set up everything including Firebase and you will only need to run or deploy.
+
 ## Good things about Tradify
 
 1. It is a full-featured full stack app complete with both the frontend and the backend.
