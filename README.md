@@ -44,6 +44,8 @@ REACT_APP_FIREBASE_APP_ID = "---"
 
 2. I have invested in the UI a bit using Tailwind CSS.
 
+3. Instead of using Entity Framework Core, I use Dapper so querying the database is a *lot* faster.
+
 
 ## Things that we need to improve
 
