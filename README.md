@@ -66,3 +66,5 @@ Because of the limited time available, there are many things that could be fixed
 ## Things that are worth investigating
 
 Using MongoDB NoSQL may have been a better choice particularly in satisfying the many-notes requirements for this small-scale project. Using Microsoft SQL Server complete with a full backend allows you to scale but it is a bit verbose.
+
+I could have also simply used Firebase Cloud Firestore and simply ditch the entire backend. However, Firebase has a request limit on its free plan (10,000 per month) and is not suitable for the long term.
